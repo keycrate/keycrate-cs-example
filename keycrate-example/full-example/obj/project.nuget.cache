@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NONQgZ5jwOU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\corvo\\Desktop\\github\\keycrate-cs-example\\keycrate-example\\full-example\\full-example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\corvo\\.nuget\\packages\\keycrate\\1.0.3\\keycrate.1.0.3.nupkg.sha512",
+    "C:\\Users\\corvo\\.nuget\\packages\\system.codedom\\9.0.10\\system.codedom.9.0.10.nupkg.sha512",
+    "C:\\Users\\corvo\\.nuget\\packages\\system.management\\9.0.10\\system.management.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

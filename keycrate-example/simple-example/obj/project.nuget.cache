@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "C8P7rTjwsJQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\corvo\\Desktop\\github\\keycrate-cs-example\\keycrate-example\\simple-example\\simple-example.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\corvo\\.nuget\\packages\\keycrate\\1.0.3\\keycrate.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

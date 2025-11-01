@@ -1,0 +1,17 @@
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\bin\Debug\net9.0\simple-example.exe
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\bin\Debug\net9.0\simple-example.deps.json
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\bin\Debug\net9.0\simple-example.runtimeconfig.json
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\bin\Debug\net9.0\simple-example.dll
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\bin\Debug\net9.0\simple-example.pdb
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\bin\Debug\net9.0\keycrate.dll
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\simple-example.csproj.AssemblyReference.cache
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\simple-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\simple-example.AssemblyInfoInputs.cache
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\simple-example.AssemblyInfo.cs
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\simple-example.csproj.CoreCompileInputs.cache
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\simple-e.26B67912.Up2Date
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\simple-example.dll
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\refint\simple-example.dll
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\simple-example.pdb
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\simple-example.genruntimeconfig.cache
+C:\Users\corvo\Desktop\github\keycrate-cs-example\keycrate-example\simple-example\obj\Debug\net9.0\ref\simple-example.dll
